@@ -1,0 +1,272 @@
+30.12.2024  0:15:33,47 - Log file has been created 
+Sending resync command to local computer
+The computer did not resync because no time data was available.
+30.12.2024  0:15:49,58 - Time has been synced with NTP server 
+30.12.2024  0:15:49,62 - List of running processes: 
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      3ÿ212 K
+Registry                       100 Services                   0     73ÿ692 K
+smss.exe                       408 Services                   0      1ÿ084 K
+csrss.exe                      560 Services                   0      6ÿ336 K
+wininit.exe                    644 Services                   0      6ÿ220 K
+services.exe                   760 Services                   0     17ÿ744 K
+lsass.exe                      804 Services                   0     22ÿ744 K
+svchost.exe                    924 Services                   0     34ÿ956 K
+fontdrvhost.exe                960 Services                   0      3ÿ688 K
+WUDFHost.exe                   352 Services                   0      4ÿ928 K
+svchost.exe                    444 Services                   0     21ÿ088 K
+svchost.exe                   1036 Services                   0     10ÿ604 K
+svchost.exe                   1248 Services                   0     10ÿ124 K
+svchost.exe                   1288 Services                   0      8ÿ288 K
+svchost.exe                   1336 Services                   0      5ÿ956 K
+svchost.exe                   1344 Services                   0      7ÿ312 K
+IntelCpHDCPSvc.exe            1368 Services                   0      5ÿ976 K
+svchost.exe                   1544 Services                   0      7ÿ828 K
+svchost.exe                   1672 Services                   0     11ÿ688 K
+IntelCpHeciSvc.exe            1680 Services                   0      6ÿ396 K
+svchost.exe                   1716 Services                   0      8ÿ192 K
+igfxCUIService.exe            1828 Services                   0      7ÿ964 K
+svchost.exe                   1936 Services                   0     16ÿ724 K
+svchost.exe                   2032 Services                   0     13ÿ056 K
+svchost.exe                   2044 Services                   0     13ÿ756 K
+svchost.exe                   1164 Services                   0      5ÿ484 K
+svchost.exe                   1768 Services                   0     11ÿ372 K
+WUDFHost.exe                  2084 Services                   0      6ÿ604 K
+svchost.exe                   2100 Services                   0      8ÿ300 K
+svchost.exe                   2108 Services                   0     23ÿ056 K
+svchost.exe                   2124 Services                   0      9ÿ508 K
+Memory Compression            2240 Services                   0    167ÿ864 K
+svchost.exe                   2296 Services                   0     16ÿ960 K
+SysInfoCap.exe                2336 Services                   0     33ÿ080 K
+AppHelperCap.exe              2344 Services                   0     20ÿ756 K
+DiagsCap.exe                  2352 Services                   0     12ÿ928 K
+NetworkCap.exe                2356 Services                   0     10ÿ396 K
+svchost.exe                   2468 Services                   0     15ÿ208 K
+svchost.exe                   2572 Services                   0      6ÿ976 K
+svchost.exe                   2656 Services                   0      7ÿ640 K
+svchost.exe                   2672 Services                   0     10ÿ480 K
+svchost.exe                   2704 Services                   0     16ÿ304 K
+WUDFHost.exe                  2764 Services                   0     15ÿ780 K
+svchost.exe                   2800 Services                   0     10ÿ816 K
+svchost.exe                   2900 Services                   0     10ÿ724 K
+svchost.exe                   3044 Services                   0      7ÿ132 K
+svchost.exe                   3156 Services                   0      7ÿ876 K
+svchost.exe                   3416 Services                   0     14ÿ916 K
+HotKeyServiceUWP.exe          3552 Services                   0     30ÿ140 K
+unsecapp.exe                  3636 Services                   0      7ÿ828 K
+WmiPrvSE.exe                  3684 Services                   0     15ÿ712 K
+svchost.exe                   3800 Services                   0      7ÿ332 K
+svchost.exe                   3812 Services                   0      8ÿ916 K
+svchost.exe                   3820 Services                   0     10ÿ816 K
+svchost.exe                   3848 Services                   0     10ÿ404 K
+svchost.exe                   4080 Services                   0      8ÿ316 K
+svchost.exe                   3308 Services                   0      7ÿ292 K
+svchost.exe                   3720 Services                   0     19ÿ720 K
+hpqwmiex.exe                  4064 Services                   0     10ÿ592 K
+svchost.exe                   4124 Services                   0     14ÿ124 K
+spoolsv.exe                   4216 Services                   0     17ÿ100 K
+svchost.exe                   4284 Services                   0     20ÿ836 K
+svchost.exe                   4460 Services                   0      5ÿ952 K
+svchost.exe                   4532 Services                   0      6ÿ656 K
+AnyDesk.exe                   4784 Services                   0     15ÿ192 K
+HidMonitorSvc.exe             4792 Services                   0      5ÿ348 K
+svchost.exe                   4800 Services                   0      5ÿ476 K
+CxMonSvc.exe                  4812 Services                   0     20ÿ376 K
+OfficeClickToRun.exe          4820 Services                   0     45ÿ500 K
+CxUtilSvc.exe                 4836 Services                   0      7ÿ708 K
+svchost.exe                   4888 Services                   0      7ÿ792 K
+svchost.exe                   4912 Services                   0     47ÿ584 K
+fpCSEvtSvc.exe                4928 Services                   0      8ÿ148 K
+svchost.exe                   5008 Services                   0      7ÿ384 K
+OneApp.IGCC.WinService.ex     5016 Services                   0     42ÿ412 K
+ibtsiva.exe                   5024 Services                   0      4ÿ728 K
+TPMProvisioningService.ex     5036 Services                   0      9ÿ504 K
+lkads.exe                     4444 Services                   0      8ÿ412 K
+svchost.exe                   4672 Services                   0     10ÿ068 K
+svchost.exe                   2924 Services                   0      9ÿ868 K
+SystemWebServer.exe           5152 Services                   0     10ÿ948 K
+MpDefenderCoreService.exe     5160 Services                   0     18ÿ016 K
+mysqld.exe                    5184 Services                   0      7ÿ196 K
+svchost.exe                   5260 Services                   0     12ÿ544 K
+svchost.exe                   5320 Services                   0      5ÿ096 K
+lkcitdl.exe                   5356 Services                   0      8ÿ756 K
+nidmsrv.exe                   5372 Services                   0      8ÿ604 K
+sqlwriter.exe                 5428 Services                   0      7ÿ128 K
+svchost.exe                   5452 Services                   0      5ÿ756 K
+lktsrv.exe                    5460 Services                   0      8ÿ500 K
+svchost.exe                   5468 Services                   0     11ÿ184 K
+dasHost.exe                   5492 Services                   0     10ÿ848 K
+sqlceip.exe                   5564 Services                   0     47ÿ116 K
+sqlservr.exe                  5576 Services                   0    110ÿ644 K
+MsMpEng.exe                   5604 Services                   0    281ÿ636 K
+valWBFPolicyService.exe       5648 Services                   0      9ÿ048 K
+svchost.exe                   5660 Services                   0     22ÿ172 K
+XtuService.exe                5724 Services                   0     37ÿ536 K
+LanWlanWwanSwitchingServi     5960 Services                   0     12ÿ456 K
+mysqld.exe                    6040 Services                   0     59ÿ084 K
+conhost.exe                   6116 Services                   0      6ÿ592 K
+svchost.exe                   6136 Services                   0      6ÿ508 K
+svchost.exe                   6640 Services                   0     10ÿ596 K
+svchost.exe                   6656 Services                   0     12ÿ376 K
+svchost.exe                   6820 Services                   0      6ÿ880 K
+dllhost.exe                   7436 Services                   0     11ÿ320 K
+dasHost.exe                   7896 Services                   0      4ÿ464 K
+svchost.exe                   7712 Services                   0     10ÿ152 K
+ApplicationWebServer.exe      7544 Services                   0     10ÿ604 K
+nimdnsResponder.exe           8188 Services                   0      9ÿ992 K
+SearchIndexer.exe             8764 Services                   0     51ÿ456 K
+NisSrv.exe                    9128 Services                   0     10ÿ840 K
+svchost.exe                   1320 Services                   0     21ÿ792 K
+svchost.exe                   8560 Services                   0      8ÿ364 K
+PresentationFontCache.exe     3728 Services                   0     17ÿ436 K
+svchost.exe                   3756 Services                   0     22ÿ984 K
+svchost.exe                   4472 Services                   0      7ÿ860 K
+svchost.exe                   9792 Services                   0     22ÿ348 K
+svchost.exe                  10300 Services                   0     24ÿ540 K
+svchost.exe                   9700 Services                   0     22ÿ372 K
+jhi_service.exe              11484 Services                   0      6ÿ560 K
+SgrmBroker.exe               11512 Services                   0      8ÿ420 K
+svchost.exe                  11556 Services                   0     10ÿ768 K
+svchost.exe                  11600 Services                   0      9ÿ728 K
+SecurityHealthService.exe    11892 Services                   0     18ÿ532 K
+svchost.exe                   1044 Services                   0     16ÿ740 K
+MoUsoCoreWorker.exe           2908 Services                   0     25ÿ456 K
+svchost.exe                  12244 Services                   0     13ÿ472 K
+svchost.exe                  12452 Services                   0      7ÿ704 K
+svchost.exe                   1476 Services                   0      9ÿ596 K
+svchost.exe                  11220 Services                   0      9ÿ248 K
+svchost.exe                  13116 Services                   0      6ÿ320 K
+csrss.exe                    10528 Console                    6      7ÿ692 K
+winlogon.exe                  9780 Console                    6     12ÿ672 K
+fontdrvhost.exe               4248 Console                    6     10ÿ900 K
+dwm.exe                      11880 Console                    6    230ÿ292 K
+Apoint.exe                   13260 Console                    6     16ÿ748 K
+HPHotkeyNotification.exe     12420 Console                    6     30ÿ936 K
+ApMsgFwd.exe                  1792 Console                    6      6ÿ860 K
+hidfind.exe                  14796 Console                    6      6ÿ280 K
+ApntEx.exe                   15084 Console                    6      7ÿ296 K
+svchost.exe                  15128 Console                    6     21ÿ456 K
+sihost.exe                   10888 Console                    6     27ÿ620 K
+conhost.exe                   1136 Console                    6      8ÿ140 K
+svchost.exe                  12560 Console                    6     36ÿ728 K
+MicTray64.exe                 9900 Console                    6      3ÿ032 K
+taskhostw.exe                 8956 Console                    6     18ÿ556 K
+igfxEM.exe                    7604 Console                    6     14ÿ080 K
+unsecapp.exe                  8548 Console                    6      7ÿ856 K
+explorer.exe                  2648 Console                    6    175ÿ048 K
+svchost.exe                   6124 Console                    6     33ÿ432 K
+ctfmon.exe                   14500 Console                    6     23ÿ040 K
+StartMenuExperienceHost.e    12344 Console                    6     71ÿ320 K
+SmartAudio3.exe              15104 Console                    6     92ÿ364 K
+RuntimeBroker.exe            12476 Console                    6     27ÿ864 K
+SearchApp.exe                10728 Console                    6    221ÿ240 K
+RuntimeBroker.exe            13324 Console                    6     46ÿ460 K
+dllhost.exe                  13732 Console                    6     12ÿ724 K
+UserOOBEBroker.exe           15088 Console                    6      9ÿ728 K
+TextInputHost.exe             9552 Console                    6     47ÿ532 K
+TabTip.exe                    3116 Console                    6     16ÿ480 K
+RuntimeBroker.exe             3080 Console                    6     29ÿ756 K
+SecurityHealthSystray.exe     4432 Console                    6      9ÿ580 K
+AnyDesk.exe                   2632 Console                    6     14ÿ596 K
+Lightshot.exe                 4340 Console                    6     20ÿ456 K
+ApplicationFrameHost.exe     11408 Console                    6     33ÿ540 K
+chrome.exe                    3296 Console                    6    337ÿ024 K
+chrome.exe                   11620 Console                    6      9ÿ228 K
+chrome.exe                   13940 Console                    6     70ÿ088 K
+chrome.exe                   13616 Console                    6    235ÿ848 K
+chrome.exe                    1964 Console                    6     23ÿ184 K
+LockApp.exe                   3864 Console                    6     61ÿ092 K
+RuntimeBroker.exe             8708 Console                    6     37ÿ180 K
+WUDFHost.exe                  4644 Services                   0      8ÿ708 K
+svchost.exe                   8676 Services                   0      5ÿ688 K
+taskhostw.exe                11036 Console                    6     15ÿ616 K
+svchost.exe                   9032 Console                    6     11ÿ224 K
+CompPkgSrv.exe                7500 Console                    6      9ÿ080 K
+chrome.exe                    1192 Console                    6     25ÿ164 K
+chrome.exe                    1904 Console                    6     66ÿ544 K
+ShellExperienceHost.exe       8992 Console                    6     82ÿ304 K
+RuntimeBroker.exe            10004 Console                    6     30ÿ788 K
+chrome.exe                   12664 Console                    6    247ÿ372 K
+chrome.exe                   12792 Console                    6     54ÿ692 K
+chrome.exe                    1612 Console                    6    229ÿ764 K
+chrome.exe                   13892 Console                    6     67ÿ500 K
+chrome.exe                    1912 Console                    6    136ÿ724 K
+chrome.exe                    5424 Console                    6     66ÿ484 K
+chrome.exe                   12932 Console                    6     78ÿ232 K
+chrome.exe                    3188 Console                    6    130ÿ424 K
+chrome.exe                    9240 Console                    6     57ÿ188 K
+chrome.exe                   14536 Console                    6     65ÿ188 K
+rundll32.exe                  4896 Console                    6      9ÿ772 K
+HPAudioAnalytics.exe          2504 Services                   0     13ÿ400 K
+svchost.exe                   7868 Services                   0     32ÿ048 K
+msedge.exe                   12368 Console                    6    168ÿ772 K
+svchost.exe                  14296 Services                   0     15ÿ504 K
+msedge.exe                    3680 Console                    6      8ÿ328 K
+msedge.exe                   10352 Console                    6     89ÿ812 K
+msedge.exe                    5236 Console                    6     38ÿ400 K
+msedge.exe                   14092 Console                    6     19ÿ432 K
+msedge.exe                    5368 Console                    6    117ÿ404 K
+msedge.exe                    7332 Console                    6     15ÿ304 K
+svchost.exe                  13752 Services                   0      7ÿ976 K
+WINWORD.EXE                  14612 Console                    6    245ÿ252 K
+msedge.exe                    4920 Console                    6     30ÿ948 K
+msedge.exe                   16012 Console                    6     93ÿ808 K
+msedge.exe                   14608 Console                    6     50ÿ200 K
+msedge.exe                   15172 Console                    6     25ÿ264 K
+Microsoft.SharePoint.exe     17156 Console                    6     16ÿ224 K
+chrome.exe                   14580 Console                    6    449ÿ480 K
+wlanext.exe                  12840 Services                   0      6ÿ512 K
+conhost.exe                  13908 Services                   0     11ÿ148 K
+SystemSettings.exe           13044 Console                    6      1ÿ496 K
+Telegram.exe                  3656 Console                    6    409ÿ852 K
+svchost.exe                  15752 Services                   0      6ÿ488 K
+chrome.exe                   16136 Console                    6     73ÿ408 K
+notepad.exe                  10908 Console                    6     18ÿ592 K
+chrome.exe                   13056 Console                    6     67ÿ204 K
+chrome.exe                   17000 Console                    6     32ÿ808 K
+WinRAR.exe                   15716 Console                    6     53ÿ116 K
+audiodg.exe                   4704 Services                   0     12ÿ140 K
+cmd.exe                        800 Console                    6      5ÿ348 K
+conhost.exe                  16032 Console                    6     20ÿ912 K
+svchost.exe                   2952 Services                   0      7ÿ620 K
+chrome.exe                   16276 Console                    6    158ÿ320 K
+tasklist.exe                  1464 Console                    6      9ÿ392 K
+WmiPrvSE.exe                 10480 Services                   0     10ÿ156 K
+SUCCESS: The process "notepad.exe" with PID 10908 has been terminated.
+30.12.2024  0:15:50,28 - Terminated process "notepad.exe". 
+30.12.2024  0:15:50,31 - Removing temporary files in "C:\SystemAndNetworkingProg\Lab2\Tempp". 
+30.12.2024  0:15:50,34 - 0 temporary files removed. 
+30.12.2024  0:15:50,36 - Creating archive "2.02- 01550.zip" from "C:\SystemAndNetworkingProg\Lab2\Tempp". 
+30.12.2024  0:15:54,05 - Archive "2.02- 01550.zip" created. 
+30.12.2024  0:15:54,07 - Archive moved to "C:\SystemAndNetworkingProg\Lab2". 
+30.12.2024  0:15:54,09 - No archive from previous day. 
+30.12.2024  0:15:54,14 - Deleted archives older than 30 days from "C:\SystemAndNetworkingProg\Lab2". 
+30.12.2024  0:15:54,24 - Internet is available. 
+30.12.2024  0:15:54,33 - Computer at IP "192.168.100.112" is online, shutting it down. 
+30.12.2024  0:15:54,55 - Networked computers: 
+30.12.2024  0:16:14,48 - ipon.txt not found. 
+30.12.2024  0:16:14,51 - Log file size exceeds 10000 bytes. 
+30.12.2024  0:16:14,52 - Disk space details: 
+
+
+DriveLetter   : 
+SizeRemaining : 538398720
+Size          : 554692608
+
+DriveLetter   : 
+SizeRemaining : 52547584
+Size          : 99614720
+
+DriveLetter   : C
+SizeRemaining : 39366369280
+Size          : 254682374144
+
+DriveLetter   : 
+SizeRemaining : 86294528
+Size          : 699396096
+
+
+

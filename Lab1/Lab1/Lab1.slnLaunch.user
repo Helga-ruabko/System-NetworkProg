@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Program_1\\Program_1.vcxproj",
+        "Action": "Start",
+        "DebugTarget": "Local Windows Debugger"
+      },
+      {
+        "Path": "Program_2\\Program_2.vcxproj",
+        "Action": "Start",
+        "DebugTarget": "Local Windows Debugger"
+      },
+      {
+        "Path": "WindowsProgram\\WindowsProgram.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

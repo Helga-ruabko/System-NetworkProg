@@ -1,0 +1,3 @@
+﻿  WindowsProgram.cpp
+C:\SystemAndNetworkingProg\Lab1\Lab1\WindowsProgram\WindowsProgram.cpp(87,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  WindowsProgram.vcxproj -> C:\SystemAndNetworkingProg\Lab1\Lab1\x64\Debug\WindowsProgram.exe

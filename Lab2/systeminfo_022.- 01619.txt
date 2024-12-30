@@ -1,0 +1,100 @@
+
+Host Name:                 OLGA
+OS Name:                   Майкрософт Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          N/A
+Registered Organization:   N/A
+Product ID:                00330-50233-47851-AAOEM
+Original Install Date:     26.03.2021, 2:19:04
+System Boot Time:          26.12.2024, 20:59:38
+System Manufacturer:       HP
+System Model:              HP EliteBook Folio 1040 G3
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 78 Stepping 3 GenuineIntel ~2396 Mhz
+BIOS Version:              HP N83 Ver. 01.49, 27.07.2020
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             ru;рос?йська
+Input Locale:              uk;українська
+Time Zone:                 (UTC+02:00) В?льнюс, Гельс?нк?, Київ, Рига, Соф?я, Талл?нн
+Total Physical Memory:     16 040 MB
+Available Physical Memory: 12 311 MB
+Virtual Memory: Max Size:  18 472 MB
+Virtual Memory: Available: 13 770 MB
+Virtual Memory: In Use:    4 702 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\OLGA
+Hotfix(s):                 43 Hotfix(s) Installed.
+                           [01]: KB5048161
+                           [02]: KB5027122
+                           [03]: KB4562830
+                           [04]: KB4577586
+                           [05]: KB4580325
+                           [06]: KB5003791
+                           [07]: KB5011048
+                           [08]: KB5011069
+                           [09]: KB5012170
+                           [10]: KB5015684
+                           [11]: KB5048652
+                           [12]: KB5006753
+                           [13]: KB5007273
+                           [14]: KB5011352
+                           [15]: KB5011651
+                           [16]: KB5014032
+                           [17]: KB5014035
+                           [18]: KB5014671
+                           [19]: KB5015895
+                           [20]: KB5016705
+                           [21]: KB5018506
+                           [22]: KB5020372
+                           [23]: KB5022924
+                           [24]: KB5023794
+                           [25]: KB5025315
+                           [26]: KB5026879
+                           [27]: KB5028318
+                           [28]: KB5028380
+                           [29]: KB5029709
+                           [30]: KB5031539
+                           [31]: KB5032392
+                           [32]: KB5032907
+                           [33]: KB5034224
+                           [34]: KB5036447
+                           [35]: KB5037018
+                           [36]: KB5037240
+                           [37]: KB5037995
+                           [38]: KB5039336
+                           [39]: KB5041579
+                           [40]: KB5043935
+                           [41]: KB5043130
+                           [42]: KB5046823
+                           [43]: KB5005699
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection I219-LM
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Dual Band Wireless-AC 8260
+                                 Connection Name: Беспроводная сеть
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.100.1
+                                 IP address(es)
+                                 [01]: 192.168.100.112
+                                 [02]: fe80::2353:48c6:b809:c399
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Сетевое подключение Bluetooth
+                                 Status:          Media disconnected
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: Ethernet 2
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::6390:911f:bd2e:db8a
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

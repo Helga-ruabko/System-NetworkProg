@@ -1,0 +1,1 @@
+30.12.2024  0:16:14,51 - Log file size exceeds 10000 bytes. 
